@@ -923,6 +923,8 @@
 
     <owl:Class rdf:about="https://github.com/RusulAlsalhi/QuranStories/tree/master#Bird">
         <rdfs:subClassOf rdf:resource="https://github.com/RusulAlsalhi/QuranStories/tree/master#Animal"/>
+        <rdfs:comment>طير</rdfs:comment>
+        <rdfs:isDefinedBy rdf:resource="https://github.com/RusulAlsalhi/QuranStories/tree/master"/>
     </owl:Class>
     
 
